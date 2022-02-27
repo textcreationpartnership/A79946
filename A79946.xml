@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A character of a diurnal-maker by J.C.</title>
+            <author>Cleveland, John, 1613-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79946</idno>
+            <idno type="STC">Wing C4658A</idno>
+            <idno type="STC">ESTC R230952</idno>
+            <idno type="EEBO-CITATION">99896607</idno>
+            <idno type="PROQUEST">99896607</idno>
+            <idno type="VID">134633</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79946)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 134633)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2424:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A character of a diurnal-maker by J.C.</title>
+                  <author>Cleveland, John, 1613-1658.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>J.C. = John Cleveland.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Characters and characteristics --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:134633:1" rendition="simple:additions"/>
+            <p>A CHARACTER OF A <hi>DI<g ref="char:V">Ʋ</g>RNAL-MAKER</hi>
+            </p>
+            <p>By <hi>J. C.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:134633:2"/>
+            <pb n="1" facs="tcp:134633:2"/>
+            <head>THE <hi>CHARACTER</hi> OF A <hi>DI<g ref="char:V">Ʋ</g>RNAL-MAKER.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg> 
+               <hi>DI<g ref="char:V">Ʋ</g>RNAL-Maker</hi> is the Sub-almoner of Hi<g ref="char:EOLhyphen"/>ſtory, Queene <hi>Mabbs</hi> Regiſter; one, whom by the ſame figure that a North-Country Pedler is a Mer<g ref="char:EOLhyphen"/>chant-man, you may ſtyle an Au<g ref="char:EOLhyphen"/>thor: It is the like over-reach of language, when every thin tinder-cloaked Quack muſt be call'd a
+<pb n="2" facs="tcp:134633:3"/>Doctor; when a Clumſy Cobler uſurps the attribute of our Engliſh Peeres, and is vamp'd a Tranſlator, liſt him a Writer and you ſmother <hi>Geoffry</hi> in ſwabber-ſlops, the very name of <hi>Dabbler</hi> over-ſets him, he is ſwallowed up in the praiſe like Sir <hi>Samuel Luke</hi> in a great Saddle, no<g ref="char:EOLhyphen"/>thing to be ſeene but the giddy Fea<g ref="char:EOLhyphen"/>ther in his Crowne. They call him a <hi>Mercury,</hi> but he becomes the Epi<g ref="char:EOLhyphen"/>thet; like the little <hi>Nergo</hi> mounted on the Elephant, juſt ſuch another blot-rampant. He has not ſtuffings ſufficient for the reproach of a Scri<g ref="char:EOLhyphen"/>bler, but it hangs about him like an old-wives skin, when the fleſh hath forſaken her, lank and looſe. Hee defames a good title as well as moſt of our moderne Noble-men, thoſe Wennes of greatneſſe, the body po<g ref="char:EOLhyphen"/>liticks moſt peccant humours, bliſtred into Lords. Hee hath ſo raw-bon'd
+<pb n="3" facs="tcp:134633:3"/>a Being, that however you render him, he rubbes it out, and makes ragges of the expreſſion. The ſilly Country-man (who ſeeing an Ape in a ſcarlet coat, bleſt his young wor<g ref="char:EOLhyphen"/>ſhip, and gave his Landlord joy of the hopes of his houſe) did not ſlan<g ref="char:EOLhyphen"/>der his Complement with worſe ap<g ref="char:EOLhyphen"/>plication, than he that names this ſhred an Hiſtorian. To call him an Hiſtorian, is to Knight a Man-drake, 'tis to view him through a preſpe<g ref="char:EOLhyphen"/>ctive, and by that groſſe Hyperbole to give the reputation of an Engineer, to a maker of Mouſe-traps. Such an Hi<g ref="char:EOLhyphen"/>ſtorian would hardly paſs muſter with a Scotch Stationer in a ſieve full of Ballads and godly Books. He would not ſerve for the breaſt plate of a begging Graecian. The moſt crampt <hi>Compendium</hi> that the age hath ſeene ſince all learning was torne into ends, out-ſtrips him by the head: I have
+<pb n="4" facs="tcp:134633:4"/>heard of puppets that could prattle in a Play, but never ſaw of their wri<g ref="char:EOLhyphen"/>tings before. There goes a report of the <hi>Holland</hi> women, that together with their children, they are delive<g ref="char:EOLhyphen"/>red of a Sooterkin; not unlike to a Rat, which ſome imagine to be the Off-ſpring of the Stooves: I know not what <hi>ignis fatuus</hi> adulterates the Preſſe, but it ſeemes much after that faſhion, elſe how could this Vermin think to be a Twin to a legitimate Writer, when thoſe weekly fragments ſhall paſſe for Hiſtory? let the poore mans box be entituled the Ex<g ref="char:EOLhyphen"/>chequer, and the almes-basket a Magazine. Not a worme that gnaws on the dull ſcalpe of voluminous <hi>Hollinſhed,</hi> but at every meale de<g ref="char:EOLhyphen"/>voured more Cronicle, than his Tribe amounts to. A marginall note of <hi>William Prinne</hi> would ſerve for a winding ſheet for that mans workes,
+<pb n="5" facs="tcp:134633:4"/>like thick skinn'd fruits are all rinde, fit for nothing but the Authors fare, to be pared in a Pillory.</p>
+            <p>The Cooke, who ſerv'd up the Dwarf in a Pye, (to containe the fro<g ref="char:EOLhyphen"/>lique) might have lapp'd up ſuch an Hiſtorian as this in the bill of fate. He is the firſt tincture and rudiment of a Writer, dip't as yet in the prepa<g ref="char:EOLhyphen"/>rative blew, like an Almanack well-willer. He is the <hi>Cadet</hi> of a Pam<g ref="char:EOLhyphen"/>phleteere, the <hi>Pedee</hi> of a Romancer. He is the <hi>Embrio</hi> of a Hiſtory, ſlink'd before maturity. How ſhould hee record the iſſues of time, who is him<g ref="char:EOLhyphen"/>ſelfe an Abortive? I will not ſay but he may paſs for a hiſtorian in <hi>Ger<g ref="char:EOLhyphen"/>biers</hi> Academy, he is much of ſize of thoſe knot-graſſe Profeſſors; What a pitifull Seminary was there projected yet ſuitable enough to the preſent Univerſity's, thoſe drye Nurſes which the providence of the
+<pb n="6" facs="tcp:134633:5"/>age has ſo fully reform'd that they are turn'd Reformados. But that's no matter, the meaner the better. It is a maxime obſervable in theſe dayes, that the onely way to win the game is to play <hi>petty Johns.</hi> Of this num<g ref="char:EOLhyphen"/>ber is the Eſquire of the quill; for he hath the grudging of Hiſtory, and ſome yawnings accordingly: Wri<g ref="char:EOLhyphen"/>ting is a diſeaſe in him, and holds like a quotidian, ſo 'tis his infirmity that makes him an Author. As <hi>Mahomet</hi> was beholding to the falling-ſickneſſe to vouch him a <hi>Prophet.</hi> That nice Artificer, who filed a chaine ſo thinne and light that a flea could traile it, (as if he had worked ſhort hand, and taught his tooles to cipher) did but contrive an Embleme for this skip<g ref="char:EOLhyphen"/>jack, and his ſlight productions.</p>
+            <p>Methinks the <hi>Turk</hi> ſhould licence Diurnals, becauſe he prohibits lear<g ref="char:EOLhyphen"/>ning and books. A Library of Diur<g ref="char:EOLhyphen"/>nals
+<pb n="7" facs="tcp:134633:5"/>is a wardrobe of frippery, 'tis a juſt Idea of a Limbo of the Infants. I ſaw one once that could write with his toes, by the ſame token I could have wiſhed he had worne his copies for ſocks, 'tis he without doubt from whom the Diurnals derive their pe<g ref="char:EOLhyphen"/>degree, and they have a birth-right accordingly, being ſhufled out at the beds feet of Hiſtory. To what infi<g ref="char:EOLhyphen"/>nite numbers an Hiſtorian would mul<g ref="char:EOLhyphen"/>tiply, ſhould he crumble into Elves of this profeſſion? <hi>Legion'd Pimme,</hi> whoſe fleſh bred ſuch a world of Exe<g ref="char:EOLhyphen"/>cutors, as being made of the row of a Herring, of nothing elſe but compa<g ref="char:EOLhyphen"/>cted Nits, did not disband his body in more variety. To ſupply this ſmalneſſe they are fain to joyn forces, ſo they are not ſingly, but as the cuſtome is in a croaking Committee; they tug at the Pen, like ſlaves at the Oare, a whole bank together, they write in the po<g ref="char:EOLhyphen"/>ſture
+<pb n="8" facs="tcp:134633:6"/>that the <hi>Swedes</hi> gave fire in, over one anothers heads. It is ſaid there is more of them go to a ſuit of Cloaths, than to a <hi>Britannicus;</hi> In this Poliga<g ref="char:EOLhyphen"/>my the Cloats breed, and cannot de<g ref="char:EOLhyphen"/>termine whoſe iſſue is lawfully begot<g ref="char:EOLhyphen"/>ten.</p>
+            <p>And here I think it were not amiſſe to take a particular how he is accou<g ref="char:EOLhyphen"/>tred, and ſo do by him, as he in his <hi>Siquis</hi> for the wall-ey'd mare, or the crop fleabitten; give you the narkes of the Beaſt. I begin with his head, which is ever in the Clours, as if the night-cap ſhould make Affidabit, that the braine was pregnant. To what pur<g ref="char:EOLhyphen"/>poſe doth the <hi>Pia Mater</hi> lye in ſo dully, in her white formallityes, ſure ſhe hath hard labour; for the browes have ſqueezed for it, as you may perceive by his butter'd bon<g ref="char:EOLhyphen"/>grace, that film of a dimicaſter, 'tis ſo thin and unctuous, that the Sun<g ref="char:EOLhyphen"/>beams
+<pb n="9" facs="tcp:134633:6"/>miſtake it for a vapour, and are like to cap him; ſo 'tis right <hi>He<g ref="char:EOLhyphen"/>liotrope,</hi> it creaks in the ſhine, and flaps in the ſhade, What ever it be, I wiſh it were able to call in his eares; there's no proportion betwixt that head and appurtenances; thoſe of all Lungs are no more fit for that ſmall Noddle of the circumciſion, than braſſe boſſes for a <hi>Geneva Bible.</hi> In what a puzling newtrality is the poor ſoule that moves betwixt two ſuch ponderous byaſſes. His coller is wedged with a peece of peeping linnen, by which he means a <hi>band,</hi> 'tis the forlorne of his ſhirt crawling out of his neck, indeed it were time that his ſhirt were jog<g ref="char:EOLhyphen"/>ging, for it has ſerv'd an apprentiſhip and (as prentices uſe) it ha h learned his trade too, to which effect 'tis mar<g ref="char:EOLhyphen"/>ching to the Paper Mill, and the next week ſets up for it ſelfe in the ſhape of a <hi>Pamphle.</hi> His <hi>gloves</hi> are the ſhavings
+<pb n="10" facs="tcp:134633:7"/>of his hands, for he caſts his skin like a cancelled parchment, the itch repre<g ref="char:EOLhyphen"/>ſents the broken ſeales. His Bootes are the Legacies of two black Jacks, and till he pawn'd the ſilver that the Jacks were tipt with, it was a pretty mode of boot-hoſe-tops. For the reſt of his habit, he is a perfect Sea<g ref="char:EOLhyphen"/>man, a kind of Interpawlin, he be<g ref="char:EOLhyphen"/>ing hang'd about with his courſe compoſition, thoſe pole-dames pa<g ref="char:EOLhyphen"/>pers.</p>
+            <p>But I muſt draw to an end, for every Character is an Anatomy Le<g ref="char:EOLhyphen"/>cture, and it fares with me in this of the <hi>Diurnall-maker,</hi> as with him that reads on a begg'd Malefactor; my ſubject ſmels before I have gone halfe thorow him: for a parting blow, then, the word <hi>Historian</hi> imports a ſage and ſolemn Author, one that curls his brow with a ſullein gravity, like a Bull-necked Presbiter, ſince
+<pb n="11" facs="tcp:134633:7"/>the Army hath got him off his ju<g ref="char:EOLhyphen"/>risdiction, who Presbyter-like ſweeps his breaſt with a reverend beard, full of native moſſe-troopers. Not ſuch a ſquirting ſcribe as this that's troubled with the Rickets; and makes penny worths of Hiſtory. The Colledge-Treaſury, that never had in bank above a <hi>Harry</hi> groat, ſhut up there in a melancholly ſolitude, like one that is kept to keepe poſſeſ<g ref="char:EOLhyphen"/>ſion, had as good evidence to ſhew for his title, as he for an Hiſtorian ſo if hee needes will be a Hiſtorian, he is not cited in the <hi>Sterling</hi> accepti<g ref="char:EOLhyphen"/>on, but after the rate of blew caps reckoning, an Hiſtorian Scot. Now a Scotch-mans tongue runnes high <hi>Fullam's,</hi> their is a Cheat in his Ideome; for the ſenſe ebbes from the bold expreſſion, like the Citizens <hi>Gallon,</hi> which the drawer interprets but <hi>halfe a pinte.</hi> In ſumme,
+<pb n="12" facs="tcp:134633:8"/>a <hi>Diurnall</hi>-maker is the antemark of an Hiſtorian, he differs from him as a Drill from a man or (if you had rather have it in the Saints gibberiſh) as a <hi>Hinter</hi> doth from a <hi>Holder-forth.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:134633:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
